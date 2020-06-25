@@ -1,1 +1,1 @@
-En la _Biblioteca_ tenés el procedimiento `PonerLineaMulticolor4` que hiciste en el ejercicio anterior, ¡no tenés que volver a definirlo! :gift:
+En la _Biblioteca_ tienes el procedimiento `PonerLineaMulticolor4` que hiciste en el ejercicio anterior; ¡no tienes que volver a definirlo! :gift:

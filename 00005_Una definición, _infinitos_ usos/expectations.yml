@@ -1,5 +1,5 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
-  inspection: Uses:Poner3Rojas
+  - !ruby 
+    binding: program
+    inspection: Uses:Poner3Rojas

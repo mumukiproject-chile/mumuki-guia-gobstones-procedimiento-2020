@@ -1,5 +1,5 @@
 ---
 expectations:
-  - !ruby 
-    binding: program
-    inspection: Uses:DibujarRomboVerde
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:DibujarRomboVerde
